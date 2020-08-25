@@ -1,0 +1,23 @@
+{
+  "name": "lighthouseintegration",
+  "version": "1.0.0",
+  "description": "LighthouseIntegration with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushantUIDeveloper/LighthouseIntegration.git"
+  },
+  "author": "Sushant Paikrao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushantUIDeveloper/LighthouseIntegration/issues"
+  },
+  "homepage": "https://github.com/SushantUIDeveloper/LighthouseIntegration#readme",
+  "devDependencies": {
+    "lighthouse": "^6.2.0",
+    "yargs": "^15.4.1"
+  }
+}
